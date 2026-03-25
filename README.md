@@ -1,3 +1,4 @@
+![Header](./header.svg)
 # 💫 About Me:
 I am a AI/ML Engineer 👩🏻‍💻 who ships production agentic systems. Built multi-agent grading and real-time voice coaching platforms<br>serving 1000+ students at Northeastern. Deep experience with LangGraph orchestration, RAG pipelines, and speech ML<br>from prototype to deployment.<br><br>🔭 Looking for AI/ML SDE roles<br><br>
 
